@@ -1,0 +1,6 @@
+1010 ponty 40
+1010 ponty 30
+2323 ponty 30
+2323 ponty 45
+2234 ponty 32
+2234 ponty 34

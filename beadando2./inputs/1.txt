@@ -1,0 +1,9 @@
+2323 ponty 20
+2323 keszeg 15
+2323 ponty 35
+2323 ponty 40
+1010 ponty 20
+2020 ponty 35
+2121 ponty 30
+2121 ponty 32
+2121 ponty 40
